@@ -1,0 +1,5 @@
+# image
+*.jpg
+# data file
+*.csv
+*.xlsx
